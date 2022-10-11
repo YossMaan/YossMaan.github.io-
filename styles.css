@@ -1,0 +1,72 @@
+.name {
+    color: black;
+    width: 800px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.contact {
+    color: black;
+    font-size: 15px;
+    padding: -100px;
+    line-height: 2px;
+    width: 800px;
+    margin-top: -65px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    
+}
+.bio {
+    font-style: italic;
+    font-size: 15px;
+    color: black;
+    width: 800px;
+    margin-top: -65px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.education {
+    color: black;
+    width: 800px;
+    margin-top: -65px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.education_1 {
+    font-style: italic;
+    color: black;
+    width: 800px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 2px
+}
+
+.skills {
+    color: black;
+    width: 800px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.skills_1 {
+    font-style: italic;
+    color: black;
+    width: 800px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 2px
+}
