@@ -8,6 +8,9 @@
     font-size: 25px;
 }
 
+.contact a {
+    color: red;
+}
 .contact {
     color: black;
     font-size: 15px;
@@ -21,7 +24,7 @@
     
 }
 .bio {
-    font-style: italic;
+    font-family: Arial,;
     font-size: 15px;
     color: black;
     width: 800px;
@@ -29,6 +32,7 @@
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    border: 1px solid black;
 }
 
 .education {
@@ -41,14 +45,15 @@
 }
 
 .education_1 {
-    font-style: italic;
+    font-family: Arial,;
     color: black;
     width: 800px;
     margin-top: -80px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    line-height: 2px
+    line-height: 2px;
+    border: 1px solid black;
 }
 
 .skills {
@@ -61,12 +66,13 @@
 }
 
 .skills_1 {
-    font-style: italic;
+    font-family: Arial,;
     color: black;
     width: 800px;
     margin-top: -80px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    line-height: 2px
+    line-height: 2px;
+    border: 1px solid black;
 }
