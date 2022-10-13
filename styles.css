@@ -1,10 +1,12 @@
 body {
     font-family: Arial,;
-    background-image: url(Images/nice-background);
+    background-image: url(Images/strange-background);
+    background-size: contain;
+    background-size: cover;
 }
 
 .name {
-    color: black;
+    color: whitesmoke;
     width: 800px;
     margin-top: 50px;
     margin-bottom: 100px;
@@ -18,7 +20,7 @@ body {
 }
 
 .contact {
-    color: black;
+    color: whitesmoke;
     font-size: 15px;
     padding: -100px;
     line-height: 2px;
@@ -31,18 +33,18 @@ body {
 }
 .bio {
     font-size: 15px;
-    color: black;
+    color: white;
     width: 800px;
     margin-top: -65px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
     padding-left: 15px;
 }
 
 .education {
-    color: black;
+    color: whitesmoke;
     width: 800px;
     margin-top: -65px;
     margin-bottom: 100px;
@@ -51,18 +53,18 @@ body {
 }
 
 .education_1 {
-    color: black;
+    color: whitesmoke;
     width: 800px;
     margin-top: -80px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
     line-height: 2px;
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
 }
 
 .skills {
-    color: black;
+    color: whitesmoke;
     width: 800px;
     margin-top: -80px;
     margin-bottom: 100px;
@@ -71,12 +73,12 @@ body {
 }
 
 .skills_1 {
-    color: black;
+    color: whitesmoke;
     width: 800px;
     margin-top: -80px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
     line-height: 2px;
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
 }
