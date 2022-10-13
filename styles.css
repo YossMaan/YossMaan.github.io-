@@ -1,6 +1,6 @@
 body {
     font-family: Arial,;
-    background-image: url(Images/strange-background);
+    background-image: url(Images/nice-background);
     background-size: contain;
     background-size: cover;
 }
@@ -39,7 +39,7 @@ body {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    border: 1px solid whitesmoke;
+    border: 1px solid whitesmoke; 
     padding-left: 15px;
 }
 
