@@ -1,3 +1,8 @@
+body {
+    font-family: Arial,;
+    background-image: url(Images/nice-background);
+}
+
 .name {
     color: black;
     width: 800px;
@@ -9,8 +14,9 @@
 }
 
 .contact a {
-    color: red;
+    color: rgb(253, 0, 0);
 }
+
 .contact {
     color: black;
     font-size: 15px;
@@ -24,7 +30,6 @@
     
 }
 .bio {
-    font-family: Arial,;
     font-size: 15px;
     color: black;
     width: 800px;
@@ -33,6 +38,7 @@
     margin-right: 150px;
     margin-left: 80px;
     border: 1px solid black;
+    padding-left: 15px;
 }
 
 .education {
@@ -45,7 +51,6 @@
 }
 
 .education_1 {
-    font-family: Arial,;
     color: black;
     width: 800px;
     margin-top: -80px;
@@ -66,7 +71,6 @@
 }
 
 .skills_1 {
-    font-family: Arial,;
     color: black;
     width: 800px;
     margin-top: -80px;
